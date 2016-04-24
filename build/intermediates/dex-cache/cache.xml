@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\danie\Google Drive\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="C:\Users\danie\Google Drive\BluetoothChat\Application\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-23.3.0_32a8ccd13425e0d86965be72f681d80a6726cf6b.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\Google Drive\BluetoothChat\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="36368bc8ce631b8bbf9a0d067a9b4bf22e52f81d">
+        <dex dex="C:\Users\danie\Google Drive\BluetoothChat\Application\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9571f3d20eec1b4461421570d73f8639fae6a0f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\Google Drive\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\danie\Google Drive\BluetoothChat\Application\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_a6ab5c0dc919d783751cc019057edc1ca6204681.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\Google Drive\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\danie\Google Drive\BluetoothChat\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_479f5a0bf29a241616472dc299248bac1d38fe51.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\Google Drive\BluetoothChat\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="74c7067c8bf79d658d7e9576481c9c6dabbc96b5">
+        <dex dex="C:\Users\danie\Google Drive\BluetoothChat\Application\build\intermediates\pre-dexed\debug\instant-run_24dcd05e35634786ef6b5a1ef4a9e31732f403e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\Google Drive\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\danie\Google Drive\BluetoothChat\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_044b7c345e34d604db28a920222c68528f03eb35.jar" />
+    </item>
+    <item
+        jar="C:\Users\danie\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\danie\Google Drive\BluetoothChat\Application\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_4bf3a3500b5538b81b92d2300794d1416e73770a.jar" />
+    </item>
+
+</items>
